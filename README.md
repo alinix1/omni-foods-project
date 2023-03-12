@@ -9,7 +9,6 @@
       </ul>
     </li>
     <li><a href="#usage">Installation</a></li>
-    <li><a href="#usage">Usage</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
@@ -18,7 +17,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![Omni-foods-project-desktop]()
+🍽️ Omni-Foods-Project 🥗 
 
 <img width="1431" alt="Screenshot 2023-03-11 at 6 54 01 PM" src="https://user-images.githubusercontent.com/28677929/224520009-efd2907e-075c-4411-a3e7-ddd4cbb19e19.png">
 
@@ -50,13 +49,6 @@ We are a technology company first, but with a major focus on consumer well-being
 3. cd into the directory 
 4. Run on command line `open index.html`
 
-<!-- USAGE -->
-## Usage
-
-![Omni-foods-project-desktop]()
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments 
 
@@ -73,7 +65,9 @@ Ali Nix | [![LinkedIn][linkedin-shield]][linkedin-url1]
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url1]: https://www.linkedin.com/in/ali-nix-38b9b9126/
 [CSS-shield]: https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
-[HTML-shield]: https://img.shields.io/badge/HTML%20Academy-302683?style=for-the-badge&logo=HTML%20Academy&logoColor=white
+[HTML-shield]: https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
 [mdn]: https://developer.mozilla.org/en-US/
 [mdn-shield]: https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white
