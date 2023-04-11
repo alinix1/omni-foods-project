@@ -72,7 +72,7 @@ We are a technology company first, but with a major focus on consumer well-being
 Used the following resources during the project: 
 
 - [![MDN Docs][mdn-shield]][mdn]
-- [![Udemy](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/learn/lecture/27513224?start=15#overview)
+- [![Udemy Course][Udemy-shield]][Udemy]
 
 <!-- CONTACT -->
 ## Contact 
@@ -86,5 +86,7 @@ Ali Nix | [![LinkedIn][linkedin-shield]][linkedin-url1]
 [linkedin-url1]: https://www.linkedin.com/in/ali-nix-38b9b9126/
 [CSS-shield]: https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
 [HTML-shield]: https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
+[Udemy-shield]:https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white
+[Udemy]: https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/learn/lecture/27513224?start=15#overview
 [mdn]: https://developer.mozilla.org/en-US/
 [mdn-shield]: https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white
